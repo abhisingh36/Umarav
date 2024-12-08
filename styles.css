@@ -75,3 +75,11 @@ footer {
   margin-bottom: 15px;
   margin-top: 15px;
 }
+button{
+  color: bisque;
+  background-color:rgb(44, 152, 214);
+  box-sizing: border-box;
+  box-shadow: 6px 8px 15px rgb(70, 80, 108);
+  border-radius: 8px;
+  height: 30px;
+}
